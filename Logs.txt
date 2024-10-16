@@ -1,0 +1,6 @@
+Day 1
+- Found VS Code Online from github
+- Found Template where I can create React App on github
+- Added Tailwind Library (NO IDEA HOW TO USE IT YET)
+
+TODO: NEEDS TO FINISH REACT TUTORIAL FROM W3SCHOOLS
